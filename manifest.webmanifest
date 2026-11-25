@@ -1,0 +1,12 @@
+{
+  "name": "صدقة جارية",
+  "short_name": "صدقة جارية",
+  "description": "صدقة جارية على روح المرحوم والمغفور له بإذن الله أحمد جمال",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#082f27",
+  "theme_color": "#082f27",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
